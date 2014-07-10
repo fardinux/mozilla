@@ -16,7 +16,7 @@ Bookmark(verb) - Əlfəcinlə(mək)
 Browser - Səyyah
 Browsing - Səyahət
 Close - Qapat
-Connect - Bağlan
+Connect - Qoşul
 *Cookie - Çərəz
 Copy - Köçür
 Customize - Şəxsiləşdir
@@ -53,7 +53,7 @@ Plugin - Qoşma
 Pop-up - Qəfil-pəncərə (bəzi yerlərdə cümlə içində deyilsə gözəl görünüş üçün Qəfil-Pəncərə)
 Preferences - Nizamlamalar
 Properties - Xassələr
-Save - Saxla(maq)
+Save - Yaddaşa yaz(maq)
 Settings - Tənzimləmələr
 Site - Sayt
 Synchronize - Sinxronlaşdır
