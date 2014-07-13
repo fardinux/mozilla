@@ -1,51 +1,70 @@
 Tərcümədə istifadə edilən terminlər:
-# - Yeni sözlər
 (Qarşısı boş qalanların tərcüməsi hələ tam deyil)
+* - Dəyişmiş söz
+# - Yeni sözlər
 (Əlifba sırasına görə)
 A B C D E F G H I G K L M N O P Q R S T U V W X Y Z
 
+#Anchor - Lövbər
 Add-ons - Əlavələr
-
 Backup - Yedək
 Backup(verb) - Yedəklə(mək)
+
+Block - Əngəl (Əngəllə)
 Bookmark - Əlfəcin
 Bookmark(verb) - Əlfəcinlə(mək)
 Browser - Səyyah
 Browsing - Səyahət
 Close - Qapat
 Connect - Bağlan
-Cookie - Çərəz
+*Cookie - Çərəz
 Copy - Köçür
 Customize - Şəxsiləşdir
-Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah.
+*Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah.
 Desktop - Masaüstü
+#Developer - Tərtibatçı
 
-Developer - Qurucu
+Debugger - Debaqqer (Tənzimləyici)
 
-#Debugger - Tənzimləyici
-#Debugging - Tənzimləmə
-#Debug - Tənzimlə
+Debugging - Debaqlamaq (Tənzimləmə)
+
+Debug - Debaq (Tənzimlə)
+
 Download - Endir(mək)
 Donate - İanə
+Edit - Düzəlt
 
-Feed
+Feed - Lent
 
 Frame - Çərçivə
+Help - Yardım
 Link - Keçid
-#Anchor - Lövbər
+
+Load - Yüklə
+
+Loading - Yüklənir
+
 History - Tarixçə
 Notifications - Bildirişlər
 Options - Seçimlər
-#Pop-up - Peyda olan
+
+Plugin - Qoşma
+
+Pop-up - Qəfil-pəncərə (bəzi yerlərdə cümlə içində deyilsə gözəl görünüş üçün Qəfil-Pəncərə)
 Preferences - Nizamlamalar
+Properties - Xassələr
 Save - Saxla(maq)
 Settings - Tənzimləmələr
 Site - Sayt
 Synchronize - Sinxronlaşdır
 Sync - Sinxronlaşdır
-Tab - Vərəq
+*Tab - Vərəq (Gələcəyinə səkmə ilə dəyişdirilə bilər)
+
+Toolbar - Panel (Əlfəcinlər Paneli)
+Tools - Alətlər
 Update - Yenilə
 Upload - Yükləmək
+View - Görünüş
 is up to date - güncəldir
-Web - Web
-Website - Websayt
+Web - Web (mümkündürsə internet işlədilsin)
+Website - web sayt (mümkündürsə təkcə sayt kimi işlədilsin)
