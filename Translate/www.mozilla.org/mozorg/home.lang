@@ -1,3 +1,9 @@
+## active ##
+## promo_lightbeam ##
+## promo_new_mdn ##
+## promo_webmaker ##
+## promo_webwewant ##
+## promo_fxdesktop ##
 ## NOTE: demo server for home page is https://www-dev.allizom.org
 
 
@@ -21,7 +27,7 @@ Biz %(mozilla_wordmark)syıq
 
 
 ;Doing good is part of our code
-Yaxşı etmək bizim kodeksimizin bir hissəsidir
+Yaxşı etmək bizim kodumuzda var
 
 
 ;Get involved
@@ -126,8 +132,8 @@ Mobilləşdirən ol.
 Mozillaya qoşulmaq üçün kodlaşdırma bilməyiniz tələb olunmur. <a href="%s">Bizim könüllülük imkanlarımız haqqında ətraflı öyrən</a>.
 
 
-;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a href="%(link_l10n)s">Help translate them into yours</a>.
-Qlobal cəmiyyətimiz sayəsində Mozilla məhsulları və saytları 70-dən çox dildə mövcuddur. <a href="%(link_l10n)s">Onların dilinizə tərcüməsinə kömək edin</a>.
+;Thanks to our global community, Mozilla products and websites are available in over 70 languages. <a rel="external" href="%(link_l10n)s">Help translate them into yours</a>.
+Qlobal cəmiyyətimiz sayəsində Mozilla məhsulları və saytları 70-dən çox dildə mövcuddur. <a rel="external" href="%(link_l10n)s">Onların dilinizə tərcüməsinə kömək edin</a>.
 
 
 # The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
@@ -160,7 +166,7 @@ Biz Web-i öyrədirik
 
 
 ;Let‘s explore, tinker and create together to build a Web that‘s open and made by everyone.
-Gəlin açıq və hər kəs tərəfindən qurulmuş Web üçün birlikdə kəşf edək, əlləşək və yaradaq.
+Gəlin açıq və hər kəs tərəfindən qurulmuş Web üçün birlikdə kəşf edək, çalışaq və yaradaq.
 
 
 ;Become a Webmaker
@@ -169,12 +175,12 @@ Webmaker Ol
 
 # New MDN promo: the active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
 ;<i>See</i> the new MDN
-<i>Yeni</i> MDN Gör
+<i>Yeni</i> MTŞ Gör
 
 
 # New MDN promo: this <br> is strictly for visual formatting; translations can omit or reposition as needed.
 ;See what’s new <br>for developers
-Proqramçılar üçün <br>yeniliklərlə tanışın
+Proqramçılar üçün <br>yeniliklərlə tanış olun
 
 
 # New MDN promo:
@@ -184,7 +190,7 @@ Bizim sənədlər, nümunələr və digər qaynaqlarımız üçün olan topluluq
 
 # New MDN promo:
 ;Visit the Mozilla Developer Network
-Mozilla Proqramçılar Şəbəkəsini ziyarət et
+Mozilla Tərtibatçı Şəbəkəsini ziyarət et
 
 
 # Australis launch promo tile on April 29, call to action link to Glow 2014 site
@@ -205,5 +211,23 @@ Sizin üçün ən çox nəyin əsas olduğunu bizimlə paylaşın və Webin gəl
 # Australis launch promo tile on April 29, call to action link to Glow 2014 site
 ;Share your vision
 Görüşlərinizi paylaşın
+
+
+# This is the label seen when the panel is collapsed so it may need to be altered to fit a limited space. The active phrase should be wrapped in <i></i> tags.
+;<i>Try the best</i> Firefox yet
+<i>Ən yaxşı Firefox'u yoxlayın</i>
+
+
+# This is the headline seen when the panel is open so it can be longer than the panel label.
+;Try the best Firefox yet
+İndiyə qədər olan Ən yaxşı Firefox'u yoxlayın
+
+
+;Learn more about the free desktop browser that’s committed to you, your privacy and an open Web.
+Siz, gizliliyiniz və açıq Web üçün hazırlanmış pulsuz masaüstü səyyahı ilə bağlı ətraflı öyrənin.
+
+
+;See what’s new
+Yeniliklərə göz at
 
 
