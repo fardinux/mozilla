@@ -1,6 +1,7 @@
 Tərcümədə istifadə edilən terminlər:
 (Qarşısı boş qalanların tərcüməsi hələ tam deyil)
 * - Dəyişmiş söz
+
 # - Yeni sözlər
 (Əlifba sırasına görə)
 A B C D E F G H I G K L M N O P Q R S T U V W X Y Z
@@ -24,11 +25,11 @@ Customize - Şəxsiləşdir
 Desktop - Masaüstü
 #Developer - Tərtibatçı
 
-Debugger - Debaqqer (Tənzimləyici)
+Debugger - Sazlayıcı (Tənzimləyici)
 
-Debugging - Debaqlamaq (Tənzimləmə)
+Debugging - Sazlama (Tənzimləmə)
 
-Debug - Debaq (Tənzimlə)
+Debug - Sazla (Tənzimlə)
 
 Download - Endir(mək)
 Donate - İanə
@@ -38,6 +39,8 @@ Feed - Lent
 
 Frame - Çərçivə
 Help - Yardım
+
+Instead - onun yerinə
 Link - Keçid
 
 Load - Yüklə
