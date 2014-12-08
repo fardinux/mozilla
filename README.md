@@ -3,3 +3,6 @@ Mozilla Azerbaijan
 =======
 
 Mozilla Azerbaijan Community
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-36541010-2/mozilla/README)](http://www.mastizada.com)
