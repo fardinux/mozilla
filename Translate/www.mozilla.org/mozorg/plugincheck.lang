@@ -1,5 +1,7 @@
 ## active ##
 ## java_notice ##
+## plugin_disable_warning ##
+## plugin_updated_content ##
 ## NOTE: Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/
 
 
@@ -50,6 +52,10 @@ Qoşmalarınızı yoxlayın
 
 ;Keeping your plugins up to date helps Firefox run safely and smoothly.
 Qoşmalarınızı yenilənmiş tutmağınız Firefox-a təhlükəsiz və rahat işləməyə kömək edir.
+
+
+;Looks like you’re using an older version of Firefox.
+Görünür siz Firefox-un köhnə versiyasını işlədirsiniz.
 
 
 ;We are aware of a problem detecting current versions of the Java plugin and misreporting them as vulnerable.
@@ -165,24 +171,12 @@ Mənim hansı Qoşmalarım var?
 Biz avtomatik yuxarıdakı qoşmalarınızı tapdıq, Firefoxda qurulmuş qoşmalarınızı görmək üçün bunu edə bilərsiz:
 
 
-;Open the Tools menu.
-Alətlər menyusunu açın.
-
-
-;Choose Add-ons.
-Əlavələri seçin.
-
-
-;Click the plugins tab.
-Qoşmalar tabına klikləyin.
-
-
 ;Want to spread the word?
 Dünyanı genişləndirmək istəyirsiz?
 
 
 ;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
-Dostlarına onlayn təhlükəsiz qalmalarına kömək edin! <a href="%(url)s">Firefox Affiliates</a> səhifəsini ziyarət edin və saytınız üçün qoşma yoxlaması nişanı alın.
+Dostlarına onlayn təhlükəsiz qalmalarına kömək edin! <a href="%(url)s">Firefox Köməkçiləri</a> səhifəsini ziyarət edin və saytınız üçün qoşma yoxlaması nişanı alın.
 
 
 ;How do I disable a plugin?
@@ -193,16 +187,45 @@ Qoşmanı necə sıradan çıxara bilərəm?
 Firefox-da:
 
 
+;Open the Tools menu.
+Alətlər menyusunu açın.
+
+
+# If you want to display the menu icon after the link, use "menurev" as CSS class instead of "menu" fot the link
+;Open the <span class="menu">menu</span>.
+<span class="menu">Menyu</span>nu aç.
+
+
+;Choose Add-ons.
+Əlavələri seçin.
+
+
+;Click the plugins tab.
+Qoşmalar vərəqinə klikləyin.
+
+
+;Click on the drop down next to the plugin you wish to disable.
+Passivləşdirmək istədiyiniz qoşmanın yanındakı açılan menyuya klikləyin.
+
+
 ;Click on a plugin in the list.
 Siyahıdakı qoşmaya klikləyin.
 
 
+;Select "Never Activate" from the available choices.
+Mövcud seçimlərlərdən "Heç vaxt Aktivləşdirmə" seçin.
+
+
 ;Click the Disable button.
-Deaktiv (yararsız) et düyməsinə klikləyin.
+Deaktiv et düyməsinə klikləyin.
 
 
 ;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
-Diqqət: Qoşmanı deaktiv etmək artıq bəzi şeyləri edə bilməyəcəyiniz deməkdir. Məsələn, əgər Flash qoşmasını deaktiv etsəniz internetdə bir çox videoları izləyə bilməyəcəksiz.
+Diqqət: Qoşmanı deaktiv etmək artıq bəzi şeyləri edə bilməyəcəyiniz deməkdir. Məsələn, əgər Flash qoşmasını deaktiv etsəniz internetdə bəzi videoları izləyə bilməyəcəksiz.
+
+
+;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on some streaming video websites.
+Diqqət: Qoşmanı deaktiv etmək artıq bəzi şeyləri edə bilməyəcəyiniz deməkdir. Məsələn, əgər Flash qoşmasını deaktiv etsəniz internetdə bəzi videoları izləyə bilməyəcəksiz.
 
 
 ;Mozilla Support

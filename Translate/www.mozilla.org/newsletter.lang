@@ -1,13 +1,16 @@
+## NOTE: These strings are used for newsletter elements (subscription forms, preferences management, etc.)
+
+
 ;Get Monthly News
 Aylıq Xəbərləri Alın
 
 
 ;Your Email Address
-E-Poçt Adresiniz
+E-poçt Adresiniz
 
 
 ;Your email address:
-E-Poçt Adresiniz:
+E-poçt Adresiniz:
 
 
 ;Text
@@ -31,7 +34,7 @@ Dil:
 
 
 ;Whoops! Be sure to enter a valid email address.
-Uuff! Doğru E-Poçt adresi daxil etdiyinizdən əmin olun.
+Uuff! Doğru E-poçt adresi daxil etdiyinizdən əmin olun.
 
 
 ;Please read the Mozilla Privacy Policy and agree by checking the box.
@@ -86,8 +89,109 @@ Hər Şey Hazırdır! <span>Bir dəqiqə, Daha bir neçə şey var</span>
 Sizə daha çox maraqlı olan mövzularda məlumat almaq istəyirsiniz? Bizə biraz özünür haqqında məlumat verin. Və nə qədər ki, burdasınız, digər Mozilla xəbərlərinə də abunə ola bilərsiniz.
 
 
+# Name for the newsletter in Newsletter subscription page
 ;Firefox & You
 Firefox və Siz
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox & You)
+;A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+A monthly newsletter and special announcements giving you tips to improve your experience with Firefox on your desktop and Android device.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS News
+Firefox OS Xəbərləri
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS News)
+;A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+A monthly newsletter and special announcements on how to get the most from your Firefox OS device, including the latest features and coolest Firefox Marketplace apps.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozilla Communities
+Mozilla İcmaları
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla Communities)
+;Bringing you the best new opportunities to help support the open Web.
+Bringing you the best new opportunities to help support the open Web.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Student Ambassadors
+Firefox Tələbə Səfirlikləri
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Student Ambassadors)
+;A monthly newsletter on how to get involved with Mozilla on your campus.
+Kampusunda Mozillaya necə dəstək ola biləcəyinizlə bağlı aylıq qəzet.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Affiliates)
+;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
+Firefox Köməkçiləri proqramından aylıq xəbərlər.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox Apps & Hacks
+Firefox Tətbiqlər və Hacklər
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Apps & Hacks)
+;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
+Proqramçılar üçün Firefox OS, Firefox Marketplace və Açıq Web proqramlarından xəbərlər.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Mozillians
+Mozillianlar
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for desktop
+Masaüstü üçün Firefox
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for desktop)
+;Don’t miss the latest announcements about our desktop browser.
+Masaüstü səyyahımızla bağlı son elanları qaçırmayın.
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox for Android
+Android üçün Firefox
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox for Android)
+;Keep up with releases and news about Firefox for Android.
+Keep up with releases and news about Firefox for Android.
+
+
+# Description for the in Newsletter subscription page (Firefox OS)
+;Be the first to know when Firefox OS devices are available in your country.
+Ölkənizdə Firefox OS cihazlarının mövcud olduğunda ilk xəbəri olanlardan olun.
+
+
+# Description for the newsletter in Newsletter subscription page (Mozilla)
+;Special announcements and messages from the team dedicated to keeping the Web free and open.
+Special announcements and messages from the team dedicated to keeping the Web free and open.
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox Marketplace)
+;Know when the coolest apps hit the Marketplace for your platform:
+Know when the coolest apps hit the Marketplace for your platform:
+
+
+# Name for the newsletter in Newsletter subscription page
+;Firefox OS smartphone owner?
+Firefox OS ağıllı telefon sahibisiniz?
+
+
+# Description for the newsletter in Newsletter subscription page (Firefox OS smartphone owner?)
+;Don’t miss important news and updates about your Firefox OS device.
+Firefox OS cihazınızla bağlı vacib xəbər və yenilikləri qaçırmayın.
 
 
 ;Our Other Newsletters:
@@ -110,11 +214,6 @@ Mobil Firefox üçün ən yeni əlavələr və özəlliklər haqqında öyrənin
 Beta Xəbərlər
 
 
-# Description for the newsletter in Newsletter subscription page
-;Read about the latest features for Firefox desktop and mobile before the final release.
-Final versiya çıxmadan Firefox desktop və mobil üçün ən son özəlliklərdən xəbərdar olun.
-
-
 ;Let’s Be Friends!
 Gəlin Dost Olaq!
 
@@ -125,6 +224,42 @@ Firefox həmçinin sizin sevimli Sosial Şəbəkələrdə. Bizimlə bağlanın v
 
 ;Manage your <span>Newsletter Subscriptions</span>
 <span>Qəzet Abunəliyinizi</span> idarə edin
+
+
+;Manage your Email Preferences
+E-poçt Seçimlərinizi idarə edin
+
+
+;We love sharing updates about all the awesome things happening at Mozilla.
+Biz Mozillada baş verən bütün maraqlı hadisələri sizlərlə bölüşməyi çox sevirik.
+
+
+;Set your preferences below to make sure you always receive the news you want.
+Sizin istəyinizə uyğun xəbərləri almaq üçün aşağıdan öz seçimlərinizi edin.
+
+
+;Newsletters
+Qəzetlər
+
+
+;Getting too much email from us?
+Bizdən həddindən artıq e-poçt alırsınız?
+
+
+;Not interested in our newsletters, but like those special announcements? No problem.
+Not interested in our newsletters, but like those special announcements? No problem.
+
+
+;We can keep in touch with occasional messages that matter most to you.
+We can keep in touch with occasional messages that matter most to you.
+
+
+;Check all categories that apply to you, and we promise to keep the mail to a minimum.
+Check all categories that apply to you, and we promise to keep the mail to a minimum.
+
+
+;I’m interested in:
+Mənə maraqlıdır:
 
 
 ;Subscribe
@@ -314,7 +449,7 @@ Firefox-u Android telefonunuzda işlətməyinizlə bağlı məlumat və fəndlə
 
 # Description for the newsletter in Newsletter subscription page
 ;Firefox OS news, tips, launch information and where to buy.
-Firefox OS xəbərləri, məlumatlar, nə vaxt çıxacağı və haradan ala biləcəyiniz haqqında.
+Firefox OS xəbərləri, məsləhərləri, nə vaxt çıxacağı və haradan ala biləcəyiniz haqqında.
 
 
 # Description for the newsletter in Newsletter subscription page
@@ -328,6 +463,11 @@ Firefox biliklərinizi master-dərəcə etmək üçün olan həftəlik xəbərl�
 
 
 # Description for the newsletter in Newsletter subscription page
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Final versiya çıxmadan Firefox desktop və mobil üçün ən son özəlliklərdən xəbərdar olun.
+
+
+# Description for the newsletter in Newsletter subscription page
 ;News from the Mozilla Project.
 Mozilla Proyektindən olan Xəbərlər.
 
@@ -338,23 +478,8 @@ Bizim illik beynəlxalq film festivallarımız haqqında periodik e-poçtlar.
 
 
 # Description for the newsletter in Newsletter subscription page
-;A monthly newsletter to keep you up to date with the Firefox Affiliates program.
-Firefox Affiliates proqramından aylıq xəbərlər.
-
-
-# Description for the newsletter in Newsletter subscription page
-;News for developers about Firefox OS, Firefox Marketplace and the Open Web apps ecosystem.
-Proqramçılar üçün Firefox OS, Firefox Marketplace və Açıq Web proqramlarından xəbərlər.
-
-
-# Description for the newsletter in Newsletter subscription page
 ;Email updates for vouched Mozillians on mozillians.org.
 mozillians.org saytında təsdiqlənmiş Mozillianlar haqqında yeniliklər e-poçtu.
-
-
-# Description for the newsletter in Newsletter subscription page
-;A monthly newsletter on how to get involved with Mozilla on your campus.
-Kampusunda Mozillaya necə dəstək ola biləcəyinizlə bağlı aylıq qəzet.
 
 
 # Description for the newsletter in Newsletter subscription page

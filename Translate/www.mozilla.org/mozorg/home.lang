@@ -1,9 +1,10 @@
 ## active ##
+## promo_fxdesktop ##
 ## promo_lightbeam ##
 ## promo_new_mdn ##
+## promo_sumo ##
 ## promo_webmaker ##
 ## promo_webwewant ##
-## promo_fxdesktop ##
 ## NOTE: demo server for home page is https://www-dev.allizom.org
 
 
@@ -120,7 +121,7 @@ Bütün xəbərləri göstər
 
 # This string is displayed only for locales where we launch Firefox OS soon
 ;Help launch Firefox OS in your country.
-Firefox OS-u öz ölkəndə buraxmaq üçün kömək edin.
+Firefox OS-nin sizin ölkənizdə buraxılması üçün kömək edin.
 
 
 # This string is displayed only for locales where we launch Firefox OS soon
@@ -229,5 +230,44 @@ Siz, gizliliyiniz və açıq Web üçün hazırlanmış pulsuz masaüstü səyya
 
 ;See what’s new
 Yeniliklərə göz at
+
+
+# promo_makerparty, temporarily disabled
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title. This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;<i>Join</i> our <br>Maker Party
+Maker Şənliyimizə<br><i>Qoşulun</i>
+
+
+# promo_makerparty, temporarily disabled
+# This <br> is strictly for visual formatting; translations can omit or reposition as needed.
+;Join our global <br>Maker Party
+Qlobal Maker Şənliyimizə<br>Qoşulun
+
+
+# promo_makerparty, temporarily disabled
+;From July to September, help us teach, learn and make the Web at hands-on community events.
+İyuldan Sentyabra qədər, şəbəkə tədbirlərində bizə öyrətməkdə, öyrənməkdə və İnterneti daha rahat etməkdə kömək edin.
+
+
+# promo_makerparty, temporarily disabled
+;Learn about events near you
+Sizə yaxın tədbirlər haqqında öyrənin
+
+
+# The active word should be wrapped in <i></i> tags, though it may appear at a different position in the translated title.
+;<i>Help</i> Mozilla users
+Mozilla istifadəçilərinə <i>kömək et</i>
+
+
+;We need your help
+Sizin köməyinizə ehtiyyacımız var
+
+
+;Learn about the ways you can help millions of users get the most out of their favorite browser.
+Milyonlarla istifadəçiyə sevimli səyyahlarından rahat istifadə etmələrini sağlamaq üçün mümkün yolları öyrən.
+
+
+;Join our support team
+Dəstək komandamıza qoşulun
 
 

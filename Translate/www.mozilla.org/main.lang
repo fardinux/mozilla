@@ -71,6 +71,20 @@ Başqa dillər:
 %d.%m.%Y
 
 
+;Legal
+Qanuni
+
+
+# Used as link in the footer
+;Cookies
+Çərəzlər
+
+
+# Used as link in the footer
+;Firefox Affiliates
+Firefox Köməkçiləri
+
+
 ;Legal Notices
 Qanuni Qeydlər
 
@@ -166,8 +180,21 @@ Bizi izləyin:
 Ətraflı Öyrən
 
 
+# Link used to play again an animation or a video
+;Replay
+Təkrarla
+
+
 ;Watch the video
 Videonu izlə
+
+
+;Replay the video
+Videonu təkrarla
+
+
+;Share the video
+Videonu paylaş
 
 
 ;WebM format
@@ -215,7 +242,7 @@ Mobil Firefox
 
 
 ;Email
-E-Poçt
+E-poçt
 
 
 ;Super speed
@@ -251,7 +278,7 @@ Dəstəklənən Cihazlar
 Yeniliklər
 
 
-# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons
+# This is the equivalent of 'Privacy Policy' but shorter, used next to download buttons and as link in the footer
 ;Privacy
 Məxfilik
 
@@ -279,6 +306,36 @@ Tur
 # Footer item
 ;Partner with Us
 Bizimlə iş birliyi
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Sync
+Sync {ok}
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Add-ons
+Masaüstü Əlavələri
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Add-ons
+Android Əlavələri
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Themes
+Mövzular
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Desktop Support
+Masaüstü Dəstək
+
+
+# Top menu item on pages like firefox/desktop/tips/
+;Android Support
+Android Dəstək
 
 
 # Top menu item on firefox/update page
@@ -317,23 +374,8 @@ Təşkilatlar üçün Firefox
 
 
 # Top menu item on firefox/update page
-;Desktop Add-ons
-Masaüstü Əlavələri
-
-
-# Top menu item on firefox/update page
 ;Mobile Add-ons
 Mobil Əlavələr
-
-
-# Top menu item on firefox/update page
-;Themes
-Mövzular
-
-
-# Top menu item on firefox/update page
-;Desktop Support
-Masaüstü Dəstəyi
 
 
 # Top menu item on firefox/update page
@@ -456,8 +498,125 @@ Sürətli
 Sizin, Məxfiliyiniz və açıq Web üçün edilmişdir
 
 
-# Link used to play again an animation
-;Replay
-Təkrarla
+# Common title used in Fx 10 pages
+;Choose Independent
+Azadlığı Seçin
+
+
+# Tweet for 10th anniversary, followed by a short URL. Keep it under 120 characters
+# The '#ChooseIndependent' hashtag should not be translated.
+;Keep the passion for a free and open Internet burning bright! #ChooseIndependent. Choose Firefox:
+Parlaq yanan azad və açıq İnternet üçün ehtirasınızı saxlayın! #ChooseIndependent. Firefox-u Seç:
+
+
+# This message is displayed when the page requires JavaScript to work (e.g. Australis or Privacy Tour)
+;Please turn on JavaScript to display this page correctly.
+Bu səhifəni doğru görüntüləmək üçün JavaScript-i aktivləşdirin.
+
+
+# Used as link to /firefox/desktop in footers on some pages
+;Firefox Features
+Firefox Özəllikləri
+
+
+# Used as link to SUMO in footers on some pages
+;Firefox Help
+Firefox Yardım
+
+
+;January
+Yanvar
+
+
+;February
+Fevral
+
+
+;March
+Mart
+
+
+;April
+Aprel
+
+
+;May
+May {ok}
+
+
+;June
+İyun
+
+
+;July
+İyul
+
+
+;August
+Avqust
+
+
+;September
+Sentyabr
+
+
+;October
+Oktyabr
+
+
+;November
+Noyabr
+
+
+;December
+Dekabr
+
+
+;<abbr>Jan</abbr>
+<abbr>Yan</abbr>
+
+
+;<abbr>Feb</abbr>
+<abbr>Fev</abbr>
+
+
+;<abbr>Mar</abbr>
+<abbr>Mar</abbr> {ok}
+
+
+;<abbr>Apr</abbr>
+<abbr>Apr</abbr> {ok}
+
+
+;<abbr>May</abbr>
+<abbr>May</abbr> {ok}
+
+
+;<abbr>Jun</abbr>
+<abbr>İyn</abbr>
+
+
+;<abbr>Jul</abbr>
+<abbr>İyl</abbr>
+
+
+;<abbr>Aug</abbr>
+<abbr>Avq</abbr>
+
+
+;<abbr>Sep</abbr>
+<abbr>Sen</abbr>
+
+
+;<abbr>Oct</abbr>
+<abbr>Okt</abbr>
+
+
+;<abbr>Nov</abbr>
+<abbr>Noy</abbr>
+
+
+;<abbr>Dec</abbr>
+<abbr>Dek</abbr>
 
 
