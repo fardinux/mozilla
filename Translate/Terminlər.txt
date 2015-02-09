@@ -52,10 +52,14 @@ Notifications - Bildirişlər
 Options - Seçimlər
 
 Plugin - Qoşma
-
 Pop-up - Qəfil-pəncərə (bəzi yerlərdə cümlə içində deyilsə gözəl görünüş üçün Qəfil-Pəncərə)
 Preferences - Nizamlamalar
 Properties - Xassələr
+Private - Məxfi (Private data - Şəxsi məlumat)
+Privacy - Məxfilik
+
+Sandboxing - ???
+
 Save - Saxla(maq)
 Settings - Tənzimləmələr
 Site - Sayt
