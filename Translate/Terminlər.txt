@@ -61,6 +61,7 @@ Privacy - Məxfilik
 Sandboxing - ???
 
 Save - Saxla(maq)
+Set - Qur
 Settings - Tənzimləmələr
 Site - Sayt
 Synchronize - Sinxronlaşdır
