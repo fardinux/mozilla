@@ -67,11 +67,11 @@ Settings - Tənzimləmələr
 Site - Sayt
 Synchronize - Sinxronlaşdır
 Sync - Sinxronlaşdır
-*Tab - Vərəq (Gələcəyinə səkmə ilə dəyişdirilə bilər)
-
+*Tab - Vərəq
 Toolbar - Panel (Əlfəcinlər Paneli)
 Tools - Alətlər
 Update - Yenilə
+#Upgrade - Yüksəlt
 Upload - Yükləmək
 View - Görünüş
 is up to date - güncəldir
