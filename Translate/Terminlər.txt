@@ -35,9 +35,9 @@ Debug - Sazla (Tənzimlə)
 Download - Endir(mək)
 Donate - İanə
 Edit - Düzəlt
-
-Feed - Lent
-
+FAQ - ÇSS
+*Feed - Axın
+Feedback - Əks əlaqə
 Frame - Çərçivə
 Help - Yardım
 
