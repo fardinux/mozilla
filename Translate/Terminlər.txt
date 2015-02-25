@@ -51,7 +51,8 @@ Loading - Yüklənir
 History - Tarixçə
 Notifications - Bildirişlər
 Options - Seçimlər
-
+# Pin - Sabitlə (Pinned - Sabitlənmiş)
+# Unpin - Sabitdən çıxart
 Plugin - Qoşma
 Pop-up - Qəfil-pəncərə (bəzi yerlərdə cümlə içində deyilsə gözəl görünüş üçün Qəfil-Pəncərə)
 Preferences - Nizamlamalar
