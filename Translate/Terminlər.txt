@@ -52,6 +52,7 @@ Loading - Yüklənir
 History - Tarixçə
 Notifications - Bildirişlər
 Options - Seçimlər
+# Phishing - E-tələ
 # Pin - Sabitlə (Pinned - Sabitlənmiş)
 # Unpin - Sabitdən çıxart
 Plugin - Qoşma
