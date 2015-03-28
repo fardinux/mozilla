@@ -23,7 +23,7 @@ Connect - Bağlan
 *Cookie - Çərəz
 Copy - Köçür
 Customize - Şəxsiləşdir
-*Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah.
+*Default - İlkin Vəziyyət, uyğun yerlərdə əsas: Əsas səyyah. Önseçilən.
 Desktop - Masaüstü
 #Developer - Tərtibatçı
 
