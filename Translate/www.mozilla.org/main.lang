@@ -2,8 +2,137 @@
 Naviqasiya
 
 
+# Firefox family navigation menu. Main level item.
+# Example: https://www-demo2.allizom.org/firefox/os
+;<span>for</span> Desktop
+Masaüstü<span>nə</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> Android
+Android<span>ə</span>
+
+
+# Firefox family navigation menu. Main level item.
+;<span>for</span> iOS
+iOS <span>üçün</span>
+
+
+# Firefox family navigation menu. Main level item.
+;OS
+ƏS
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+# You can test v2 here: https://www-demo2.allizom.org/it/firefox/os/devices/?v2=1
+;For desktops &amp; laptops
+Masaüstü və dizüstü kompüterlər üçün
+
+
+# Firefox family navigation menu v2 (products nested under type instead of product hierarchy). Main level item.
+;For phones &amp; tablets
+Telefon və tabletlər üçün
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Overview
+İcmal
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Trusted
+Güvənilir
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Flexible
+Çevik
+
+
+# Firefox family navigation menu. Second-level item shared across different menus.
+;Fast
+Sürətli
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
 ;About
 Haqqımızda
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Devices
+Cihazlar
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;For partners
+Əməkdaşlara
+
+
+# Used in the new Firefox family navigation menu. Second-level item of "OS"
+;Apps
+Tətbiqlər
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Do Not Track
+Məni İzləmə
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Tiles
+Mozaiklər
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+# Internet Dashboard: https://www.mozilla.org/firefox/interest-dashboard/
+;Interest Dashboard
+Maraq Lövhəsi
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developer Edition
+Tərtibatçılara Özəl
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Private Browsing
+Məxfi Səyahət
+
+
+# Used in the new Firefox family navigation menu and in several pages as an active link to SUMO
+;Need help?
+Kömək lazımdır?
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;News
+Xəbərlər
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;For developers
+Tərtibatçılar üçün
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Find My Device
+Cihazımı Tap
+
+
+# Firefox family navigation menu. Item displayed pressing the "…" button.
+;Developers
+Tərtibatçılar
+
+
+# Used as og:title (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Choose the independent browser
+Azad səyyah seç
+
+
+# Used as og:description (meta tag for Open Graphs, not visible in the page) in in-product tours and firefox/new
+;Firefox is non-profit, non-corporate, non-compromised. Choosing Firefox isn’t just choosing a browser. It’s a vote for personal freedom.
+Firefox qeyri-ticari, qeyri-korporativ, kompromissizdir. Firefox seçmək təkcə səyyah seçmək demək deyil. Bu həmçinin şəxsi azadlıq üçün səsvermədir.
 
 
 ;Donate
@@ -143,7 +272,7 @@ Meqabayt
 
 
 ;FAQ
-FAQ {ok}
+ÇSS
 
 
 ;Videos
@@ -221,16 +350,12 @@ Firefox-un yeni görüşünü və işləmə özəlliklərini qiymətləndirin.
 Tam Saytı Göstər
 
 
-;Get Firefox for Android
-Android üçün Firefox Endir
-
-
 ;Download for <span>Android</span>
 <span>Android</span> üçün Endir
 
 
 ;Desktop
-Masa Üstü
+Masaüstü
 
 
 ;Firefox Beta for mobile
@@ -286,6 +411,11 @@ Məxfilik
 # Footer string
 ;Portions of this content are ©1998–%(current_year)s by individual mozilla.org contributors. Content available under a <a href="%(url)s">Creative Commons license</a>.
 Bu məzmunun bir hissəsi ©1998–%(current_year)s mozilla.org proyektinin iştirakçıları tərəfindən yaradılıb. Məzmun <a href="%(url)s">Creative Commons lisenziyası</a> ilə mövcuddur.
+
+
+# Footer string (will replace "Contribute to this page")
+;Contribute to this site
+Bu sayta töhfə ver
 
 
 # Footer string
@@ -356,11 +486,6 @@ Texnologiya
 # Top menu item on firefox/update page
 ;Releases
 Buraxılışlar
-
-
-# Top menu item on firefox/update page
-;Overview
-İcmal
 
 
 # Top menu item on firefox/update page
@@ -449,6 +574,11 @@ Forumlar
 
 
 # sidebar link in some /about pages (e.g. Manifesto)
+;Leadership
+Rəhbərlik
+
+
+# sidebar link in some /about pages (e.g. Manifesto)
 ;Governance
 İdarəetmə
 
@@ -476,21 +606,6 @@ Fərqli bölümlərdə töhfə vermək üçün könüllü ol.
 # This is a non-visible string for blind people to indicate where the menu is
 ;Menu
 Menyu
-
-
-# Menu item on top of Australis Firefox pages
-;Trusted
-Güvənilir
-
-
-# Menu item on top of Australis Firefox pages
-;Flexible
-Çevik
-
-
-# Menu item on top of Australis Firefox pages
-;Fast
-Sürətli
 
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
@@ -521,7 +636,7 @@ Firefox Özəllikləri
 
 # Used as link to SUMO in footers on some pages
 ;Firefox Help
-Firefox Yardım
+Firefox Kömək
 
 
 ;January
@@ -618,5 +733,14 @@ Dekabr
 
 ;<abbr>Dec</abbr>
 <abbr>Dek</abbr>
+
+
+# Used as a teaser for iOS on multiple pages. Link goes to a newsletter signup form
+;Firefox is coming soon to iOS! <a href="{url}">Sign up to learn more</a>.
+Firefox artıq iOS-da! <a href="{url}">Ətraflı öyrənmək üçün qeyd olun</a>.
+
+
+;Congrats. You’re up to date!
+Təbriklər. Sizdə ən son versiyadır!
 
 

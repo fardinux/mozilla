@@ -1,8 +1,10 @@
 ## active ##
+## hello_screen_sharing ##
+## ios_announce ##
 ## NOTE: this file covers both the product page and the first time experience (interactive UI Tour)
 ## NOTE: check https://groups.google.com/forum/#!topic/mozilla.dev.l10n.web/4uNJ7sz9xmw for instructions on how to test the tour page
-## NOTE: product page demo URL (work in progress) https://www-demo2.allizom.org/firefox/hello/
-## NOTE: firts time experience demo URL (work in progress) https://www-demo2.allizom.org/firefox/37.0a1/hello/start/
+## NOTE: product page demo URL (work in progress) https://www-dev.allizom.org/firefox/hello/
+## NOTE: firts time experience demo URL https://www-dev.allizom.org/firefox/38.0a1/hello/start/
 
 
 # “Firefox Hello” is the product name and should not be localized
@@ -31,6 +33,16 @@ Firefox Hello ilə tanış olun, hər kəslə, hər yerdə pulsuz video ilə ba�
 Firefox Hello-nu Yoxlayın
 
 
+# This string is displayed to users of Firefox 38 ESR, where Hello is not available
+;You need a different version of Firefox to use Hello.
+Hello işlətmək üçün fərqli Firefox versiyasına ehtiyyacınız var.
+
+
+# This string is used as a button label, displayed to users of Firefox 38 ESR to download an updated version of Firefox
+;Try it now
+İndi Yoxla
+
+
 ;All you need is Firefox
 Ehtiyyacının olan tək şey Firefoxdur
 
@@ -44,12 +56,47 @@ Ehtiyyacının olan tək şey Firefoxdur
 Hesab və ya qeydiyyat tələb olunmur və əlavə nəsə endirmək lazım deyil.
 
 
+;Just send a conversation link to a friend and ask them to click it.
+Sadəcə yoldaşınıza söhbət keçidini göndərin və ona klikləmələrini istəyin.
+
+
+# This string will be an active link to SUMO: https://support.mozilla.org/kb/which-browsers-will-work-firefox-hello-video-chat
+;See which browsers are compatible with Firefox Hello
+Hansı səyyahların Firefox Hello ilə uyumlu olduğunu görün
+
+
 ;Just start a conversation, send your friend a link and ask them to click it.
 Sadəcə söhbət başladın, dostlarınıza linki göndərin və onlardan linkə klikləmələrini istəyin.
 
 
 ;Simple.
 Sadə.
+
+
+# This is an English idiomatic expression: http://www.phrases.org.uk/meanings/316750.html
+# Feel free to adapt it to your locale.
+;Share and share alike
+Bərabər hüquqlu
+
+
+;Want to show off some new baby pictures?
+Körpənin yeni şəkillərini göstərmək istəyirsiz?
+
+
+;Share travel options over the Web?
+Səyahət seçimlərini internetdə paylaşmaq?
+
+
+;Check in on a project from half a world away?
+Dünyanın başqa bir yanından proyektdə iştirak etmək?
+
+
+;Screen sharing on Firefox Hello makes it all possible.
+Firefox Hello-nun ekran paylaşımı bunu artıq mümkün edir.
+
+
+;Try it out in your next conversation and share the things that matter most.
+Bir sonrakı söhbətdə bunu yoxlayın və əhəmiyyətli şeyləri paylaşın.
 
 
 ;Invite anyone, anywhere
@@ -76,6 +123,15 @@ Təhlükəsiz, güvənilir, qorumalı
 # “Hello” is the product name and should not be localized
 ;Because Hello is built right into Firefox, you can rest easy knowing that your conversations and information will remain private and secure.
 Belə ki, Hello Firefox səyyahının içində qurulub, siz söhbətinizin və məlumatlarınızın məxfi, güvənilir qalacağından əmin ola bilərsiniz.
+
+
+;And thanks to WebRTC-grade encryption, you’ll enjoy an added level of security.
+WebRTC-grade şifrələmə sayəsində əlavə təhlükəsizlik səviyyəsindən həzz alacaqsınız.
+
+
+# This will be an active link. Destination URL currently not available
+;Learn more about WebRTC encryption
+WebRTC şifrələmə haqqında ətraflı öyrənin
 
 
 ;That’s part of our mission, and it’s behind everything we do around here.
@@ -123,6 +179,10 @@ Hello işlətməyə başlamaq üçün Firefox səyyahınızı yeniləyin
 İlk söhbətinizi bu gün başladın
 
 
+;Unfortunately, iOS doesn’t support Hello. To start having free video conversations, use Hello on Firefox for desktop, Firefox OS or Firefox for Android.
+Nə yazıq ki, iOS Hello-nu dəstəkləmir. Pulsuz video söhbətə başlamaq üçün Hello-nu Masaüstü üçün Firefox-da, FirefoxOS və ya Android üçün Firefox-da işlədin.
+
+
 # “Hello” is the product name and should not be localized
 ;Try Hello now
 Hello-nu indi yoxlayın
@@ -161,6 +221,11 @@ Mozilla Dəstəyi Ziyarət edin
 
 
 # The following strings are used for the First Time interactive experience, don't add HTML tags.
+# The %s placeholder is an image of the Hello screen sharing icon, and can be moved around to fit the translation appropriately.
+;Now see how easy it is to share your screen. Click %s in your conversation window to try it.
+Artıq ekranınızı paylaşmağın necə də asan olduğunu görün. Söhbət pəncərənizdə %s düyməsinə basaraq bunu yoxlayın.
+
+
 # “Hello” is the product name and should not be localized
 ;Welcome to Hello
 Hello-ya xoş gəldiniz

@@ -1,4 +1,23 @@
+## active ##
+## firefox_friends ##
+## fx10_independent ##
+## gear_store ##
+## meta_update_201503 ##
+## privacy_day ##
+## webmaker_promo_make ##
+## webmaker_promo_makerparty2015 ##
+## webmaker_promo_makerparty2015b ##
 ## NOTE: demo server at https://www-dev.allizom.org/
+
+
+# Used as page title in HTML meta tag
+;We’re building a better Internet
+Daha yaxşı İnternet inşa edirik
+
+
+# Used as page description in HTML meta tag
+;Did you know? Mozilla — the maker of Firefox — fights to keep the Internet a global public resource open and accessible to all.
+Bilirdiniz? Mozilla — Firefox səyyahının qurucusu — İnterneti açıq və hər kəs üçün əlçatan qlobal ictimai qaynaq olaraq saxlamaq üçün mübarizə aparır.
 
 
 ;Home of the Mozilla Project
@@ -11,19 +30,6 @@ Mozilla Proyektinin Evi
 
 ;Community
 İcma
-
-
-# New tiles for Firefox Anniversary are visible on https://www-demo3.allizom.org/
-;Firefox: The independent choice
-Firefox: Azad seçim
-
-
-;Help us celebrate 10 years of choice and independence online.
-Onlayn seçimin və azadlığın 10 illiyini qeyd etməkdə bizə kömək edin.
-
-
-;Watch our video
-Bizim videonu izləyin
 
 
 # This is used as a link to dismiss the video overlay and continue to mozilla.org website
@@ -43,6 +49,19 @@ Etdiyimiz hər şeydə <br>bizi yöndəndirən <br>prinsiplərimizi görün.
 Mozilla Manifesto-nu <br>oxuyun
 
 
+# Do no translate "Firefox Friends" (https://friends.mozilla.org)
+;Introducing <br>Firefox Friends
+Təqdim edirik <br>Firefox Friends
+
+
+;Join. Share. <br>Get rewarded.
+Qoşul. Paylaş. <br>Təltif al.
+
+
+;Join Firefox Friends
+Firefox Friends-ə Qoşul
+
+
 # Small tile. Link points to https://advocacy.mozilla.org
 ;Learn about Mozilla Advocacy
 Mozilla Advocacy haqqında öyrənin
@@ -60,18 +79,28 @@ Firefox Səyyahını Endir
 Ətraflı öyrən
 
 
-# This string is displayed as title when the tile is inactive.
-;Get Smart on Privacy
-Məxfilikdə daha bilikli olun
+;Get creative <br>at Maker Party
+Maker Şənliyində <br>Kreativliyinizi artırın
 
 
-;Learn how to give yourself more control online in four easy steps.
-Özünüzə onlayn necə daha çox idarə verəcəyinizi 4 sadə addımda öyrənin.
+;Join Mozilla <br>and help teach the Web.
+Mozillaya qoşul <br>və Web-i öyrətməkdə kömək et.
 
 
-# This is used as button label when the tile is hovered.
-;Get smart on privacy
-Məxfilikdə daha bilikli olun
+;Join the party
+Şənliyə qoşul
+
+
+;Make the Web you want
+İstədiyiniz interneti qurun
+
+
+;Build a Web page or app in minutes<br> — no coding required.
+Bir dəqiqədə Web səhifə və ya tətbiq yaradın<br> — kodlaşdırmağa ehtiyyac yoxdur.
+
+
+;Become a Webmaker
+Webmaker ol
 
 
 ;Teach the Web
@@ -82,8 +111,8 @@ Web-i Öyrət
 Gəlin açıq və hər kəz tərəfindən yaradılmış <br>İnterneti quraq.
 
 
-;Become a Webmaker
-Webmaker ol
+;Try the new Webmaker
+Yeni Webmaker-i yoxlayın
 
 
 ;Build an app <br>in seconds
@@ -92,6 +121,11 @@ Bir neçə saniyədə<br>tətbiq qurun
 
 ;Volunteer <br>with Mozilla
 Mozilla ilə <br>Könüllü olun
+
+
+# "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
+;Try Firefox Developer Edition
+Firefox Developer Edition Yoxlayın
 
 
 # "Firefox Developer Edition" is considered a brand and should not be localized or transliterated.
@@ -131,21 +165,9 @@ Sevdiyiniz <br>xüsusiyyətlər. <br>Güvəndiyiniz <br>məxfilik.
 Android üçün Firefox <br>haqqında ətraflı öyrənin
 
 
-;Donate to Mozilla
-Mozillaya İanə edin
-
-
-;Your gift helps us build the Internet the world needs.
-Hədiyyələriniz bizə dünyanın ehtiyyacı olan İnterneti qurmağa kömək edir.
-
-
-;Donate today
-Bu gün ianə edin
-
-
-# This string is currently unused (tile will link to Mozilla Gear Store)
+# Used in a small tile
 ;Official Mozilla gear is here
-Rəsmi Mozilla əşyaları burdadır
+Rəsmi Mozilla əşyaları buradadır
 
 
 # This string is currently unused (tile will link to Mozilla Gear Store)
@@ -201,7 +223,7 @@ dil və artır, <br>hər kontinentdə
 
 
 ;Get Involved with Mozilla today
-Mozillaya bu gün qoşulun
+Mozilla-ya bu gün qoşulun
 
 
 ;Upcoming events
@@ -228,10 +250,6 @@ Karyeralar
 Mozillada işləməyin üstünlüklərini öyrənin və dünyanın hər tərəfində olan açıq vakansiyaları görün.
 
 
-;Need help?
-Kömək lazımdır?
-
-
 ;Get answers to your questions about Firefox and all Mozilla products from our support team.
 Firefox və bütün Mozilla məhsulları haqqında sizi maraqlandıran suallara bizim dəstək komandasından cavab alın.
 
@@ -242,5 +260,30 @@ Daha çox kəşf edin
 
 ;Help us celebrate 10 years of Firefox.
 Firefox səyyahının 10 illiyini qeyd etməyimizə kömək edin.
+
+
+# Old promo tiles
+;Donate to Mozilla
+Mozilla-ya İanə edin
+
+
+;Your gift helps us build the Internet the world needs.
+Hədiyyələriniz bizə dünyanın ehtiyyacı olan İnterneti qurmağa kömək edir.
+
+
+;Donate today
+Bu gün ianə edin
+
+
+;Meet<br> Firefox Hello
+Firefox Hello<br> ilə tanış olun
+
+
+;The easiest way to connect for free over video.
+Video ilə pulsuz bağlanmağın ən asan yolu.
+
+
+;Try Firefox Hello
+Firefox Hello-nu yoxlayın
 
 

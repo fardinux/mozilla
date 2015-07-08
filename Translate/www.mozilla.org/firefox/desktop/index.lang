@@ -1,16 +1,17 @@
 ## active ##
+## firefox_updated ##
 ## home_title_update ##
 ## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop
 
 
 # This is the <title> tag
 ;Firefox Web browser — Trusted, Flexible, Fast — Committed to you, your privacy and an open Web
-Firefox Web səyyahı — Güvənilir, Çevik, Sürətli — Sizin, Məxfiliyiniz və açıq İnternet üçün hazırlanıb
+Firefox İnternet səyyahı — Güvənilir, Çevik, Sürətli — Sizin, Məxfiliyiniz və açıq İnternet üçün hazırlanıb
 
 
 # Previous title (DO NOT REMOVE)
 ;Firefox Web browser — Trusted, Flexible, Fast — There's never been a better time
-Firefox Web səyyahı — Güvənilir, Çevik, Sürətli — İndi əsl vaxtıdır
+Firefox İnternet səyyahı — Güvənilir, Çevik, Sürətli — İndi əsl vaxtıdır
 
 
 # L10n: Line break below is for wide screen formatting only.
@@ -22,16 +23,27 @@ Firefox Web səyyahı — Güvənilir, Çevik, Sürətli — İndi əsl vaxtıd�
 Sizin, Gizliliyiniz və açıq bir Web üçün varıq.
 
 
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+;Your Firefox is up to date.
+Firefoxunuz güncəldir.
+
+
+# This string is displayed if the visitor is using an up-to-date version of Firefox
+# Active link to https://support.mozilla.org/products/firefox
+;Need help with anything?
+Köməyə ehtiyyacınız var?
+
+
 ;Made with a mission to put you first
 Sizi hər zaman ilk sıraya qoymaq missiyası ilə hazırlanıb
 
 
 ;We’ve always designed Firefox to protect and respect your private information.
-Firefox'u hər zaman şəxsi məlumatlarınızı qorumaq və onlara hörmət görtərmək üçün dizayn etdik.
+Firefox'u hər zaman şəxsi məlumatlarınızı qorumaq və onlara hörmət göstərmək üçün dizayn etdik.
 
 
-;That’s why we’re proud to be voted the <a href="%(url1)s">Most Trusted Internet Company for Privacy.</a>
-Bu səbəbdən <a href="%(url1)s">Məxfilikdə Ən Güvənli İnternet Şirkəti</a> seçilməkdən qürur duyuruq.
+;That’s why we’re proud to be voted the <a href="%(url1)s" data-interaction="outbound link">Most Trusted Internet Company for Privacy.</a>
+Bu səbəbdən <a href="%(url1)s" data-interaction="outbound link">Məxfilikdə Ən Güvənli İnternet Şirkəti</a> seçilməkdən qürur duyuruq.
 
 
 ;Find out what makes Firefox the most trusted browser on the Web
@@ -66,8 +78,8 @@ Firefox'u ən çevik səyyah <br class="wide-br">edən şeyləri öyrənin
 Firefox azad testlərdə digər səyyahlara görə ”speed king” (sürət kralı) adlandırılıb.
 
 
-;* Based on <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
-* <a href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> nəticələri əsasındadır.
+;* Based on <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> results.
+* <a data-interaction="outbound link" href="%(url1)s">Tom’s Hardware Web Browser Grand Prix XVI</a> nəticələri əsasındadır.
 
 
 ;Save time and do just about anything quicker than before.

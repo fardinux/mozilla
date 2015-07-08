@@ -1,6 +1,7 @@
 ## active ##
 ## firefox_new_refresh_button ##
 ## fx10_independent ##
+## ios_announce ##
 ## mobile_links ##
 ## NOTE: Used for the new http://www.mozilla.org/firefox/new
 
@@ -85,10 +86,9 @@ Firefox ikonunu proqramlar qovluğundan dock-a daşıyın. Daha sonra, nə zaman
 
 # file <title> tag
 ;Mozilla Firefox Web Browser
-Web Səyyah Mozilla Firefox
+Mozilla Firefox İnternet Səyyahı
 
 
-# New unified download page: https://www-demo2.allizom.org/en-US/firefox/new/
 ;Sorry, Firefox is currently unsupported by iOS devices.
 Bağışlayın, Firefox hələ ki, iOS cihazlar tərəfindən dəstəklənmir.
 
@@ -117,10 +117,6 @@ Google Play-dən pulsuz əldə edin
 Masaüstü üçün Firefox haqqında ətraflı öyrən
 
 
-;Need help?
-Kömək lazımdır?
-
-
 ;Looking for mobile?
 Mobil versiya üçün baxırsız?
 
@@ -147,6 +143,10 @@ Firefox OS haqqında öyrənin
 
 ;Discover all the ways to take Firefox on the go
 Gəzərkən də Firefoxu özünüzlə götürmənin yollarını kəşf edin
+
+
+;Learn more about Firefox on iOS
+iOS üçün Firefox haqqında ətraflı öyrənin
 
 
 ;Why don’t we offer an iOS version?

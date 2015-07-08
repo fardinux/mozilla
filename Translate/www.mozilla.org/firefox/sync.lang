@@ -1,6 +1,8 @@
 ## active ##
-## sync_new_markup ##
-## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/sync/
+## firefox_sync_non_fx ##
+## fx38_sync_updates ##
+## ios_announce ##
+## NOTE: url for demo server is: https://www-demo4.allizom.org/firefox/sync/
 
 
 ;Keep your Firefox in sync
@@ -8,7 +10,7 @@ Firefox-unuzu sinxron saxlayın
 
 
 ;Ready, Set, Sync
-Hazır, Qur, Sinxronlaşdır
+Diqqət, Hazırlaş, Sinxronlaşdır
 
 
 ;You’re signed up and ready to access <em>your</em> Firefox anywhere, anytime.
@@ -20,7 +22,11 @@ Qeyd olmusunuz və <em>Firefoxunuza</em> hər yerdən, hər zaman daxil ola bil�
 
 
 ;Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
-Sync Firefox wherever you use it to access your bookmarks, passwords, tabs and more from any smartphone, tablet or computer.
+Firefox səyyahınızı telefon, tablet və ya kompüterdə hər işlətdiyinizdə əlfəcin, şifrə, vərəq və daha bir çox məlumatlarınızı əlçatan etmək üçün Sinxronlaşdırın.
+
+
+;Sync your bookmarks, passwords, tabs and more using your Firefox Account, and access them everywhere you’re signed in.
+Firefox Hesabınızla əlfəcin, şifrə, vərəq və daha bir çox məlumatlarınızı sinxronlaşdırın, hesaba daxil olduğunuz hər yerdə işlədin.
 
 
 ;It looks like you’re running an older version of Firefox.
@@ -31,21 +37,21 @@ Görünür Firefoxun köhnə versiyasını işlədirsiniz.
 Yeni Sync Firefoxun ancaq son versiyaları ilə çalışır
 
 
+;Soon you’ll be able to use Sync on your iOS device
+Tezliklə Sync-i iOS cihazlarınızda da işlədə biləcəksiz
+
+
 ;Sync is just one of the great features you’ll only get with Firefox. Discover them all!
-Sync Firefox ilə bərabər əldə etdiyin bir çox böyük özəlliklərdən biridir. Hamısını kəşf edin!
+Sync Firefox ilə bərabər əldə etdiyiniz bir çox böyük özəlliklərdən biridir. Hamısını kəşf edin!
 
 
 # This string is displayed when you visit the page with a different browser (i.e. not Firefox)
 ;Sync is just one of the great features you’ll only get with Firefox.
-Sync is just one of the great features you’ll only get with Firefox.
+Sync Firefox ilə bərabər əldə etdiyiniz bir çox böyük özəlliklərdən biridir.
 
 
 ;Download Firefox for Android
 Android üçün Firefox Endirin
-
-
-;Need help?
-Kömək lazımdır?
 
 
 ;Get started with Sync
@@ -66,13 +72,13 @@ Firefox Endir
 
 # You can localize the anchor part of the URL (#w_a-handy-new-menu) if the article is localized on SUMO. en-US link: https://support.mozilla.org/kb/learn-more-about-the-design-of-new-firefox#w_a-handy-new-menu
 # If you want to display the menu icon after the link, use "menurev ga-link" as CSS class instead of "menu ga-link" fot the link
-;Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Open the <a class="menu ga-link" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+;Open the <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
+Firefox səyyahının üst sağındakı <a class="menu ga-link" data-interaction="outbound link click" href="%(url)s#w_a-handy-new-menu">menyu</a>açın və “<strong>Sync Daxil Ol</strong> seçin.”
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
 ;Click “<strong>Get started</strong>” in the tab that opens.
-Açılan tabda “<strong>Başla</strong>” düyməsini klikləyin.
+Açılan vərəqdə “<strong>Başla</strong>” düyməsini klikləyin.
 
 
 # (NEW STRING) <strong> tags used for font color formatting.
@@ -86,7 +92,7 @@ Açılan tabda “<strong>Başla</strong>” düyməsini klikləyin.
 
 
 ;After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
-After you check your email and click the verification link, you’ll be all set! Firefox will automatically sync in the background from then on.
+E-poçtunuzu yoxlayıb təsdiq linkinə kliklədikdən sonra hər şey hazır olacaq. Firefox ondan sonra avtomatik arxa tərəfdə sinxronlaşacaq.
 
 
 ;Get more detailed instructions.
@@ -105,32 +111,32 @@ Sinxronlaşdırmanın köhnə versiyasını işlədirsiz?
 # <strong> tags below used for font color formatting.
 # This string is displayed on Android devices
 ;Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
-Tap the <strong>Menu</strong> button (either below the screen or at the top right corner of the browser).
+<strong>Menyu</strong> düyməsinə basın (ya ekranın aşağısında və ya səyyahın üst sağ küncündə).
 
 
 # This string is displayed on Android devices
 ;Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
-Select <strong>Settings</strong> (you may need to tap <strong>More</strong> first).
+<strong>Tənzimləmələr</strong>i Seç (ola bilsin ilk başda <strong>Daha çox</strong> düyməsinə basmalı oldunuz).
 
 
 # This string is displayed on Android devices
 ;Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
-Tap <strong>Sync</strong> and then <strong>Get Started</strong>.
+<strong>Sync</strong>-ə basın və daha sonra <strong>Başlayın</strong>.
 
 
 # This string is displayed on Android devices
 ;The <strong>Create a Firefox Account page</strong> will open in a new tab.
-The <strong>Create a Firefox Account page</strong> will open in a new tab.
+<strong>Firefox Hesabı Yarat</strong> səhifəsi yeni vərəqdə açılacaq.
 
 
 # This string is displayed on Android devices
 ;Fill out the form and click <strong>Next</strong>.
-Fill out the form and click <strong>Next</strong>.
+Formu doldurun və <strong>Sonrakı</strong> düyməsini klikləyin.
 
 
 # This string is displayed on Android devices
 ;After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
-After you check your email and click the verification link, you’ll be ready to go! Don’t forget to connect all your other devices to get the most of Sync.
+E-poçtunuzu yoxlayıb təsdiq linkinə kliklədikdən sonra davam etməyə tam hazır olacaqsız! Sync-dən daha yaxşı faydalanmaq üçün digər cihazlarınızı da ona bağlamağı unutmayın.
 
 
 ;Sync a little. Sync a lot.
@@ -138,7 +144,31 @@ Az Sinxronlaşdırın. Çox şey sinxronlaşdırın.
 
 
 ;You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
-You choose what parts of your Firefox you want to sync and where you want to sync them. Take your open tabs on your daily commute. Access your bookmarks at work. Whatever, whenever, everywhere.
+Siz özünür harada Firefoxun hansı hissələri sinxronlaşdırmaq istədiyinizi seçirsiniz. Açıq vərəqlərinizi hər zaman yanınızda tutun. Əlfəcinlərinizi ofisinizdə də açın. Hər şey, hər vaxt, hər yerdə.
+
+
+;Want to visit your computer’s open tabs from another device? Access your browsing history on the go? Keep your passwords with you? Now you can.
+Kompüterinizin açıq vərəqlərinə digər cihazdan ziyarət etmək istəyirsiz? Səyahət tarixinizi yoldaykən işlətmək? Şifrələrinizi yanınızda gəzdirmək? Artıq bunu edə bilərsiz.
+
+
+;Here’s what you can sync:
+Sinxronlaşdıra biləcəkləriniz:
+
+
+;Bookmarks
+Əlfəcinlər
+
+
+;Passwords
+Şifrələr
+
+
+;Open tabs
+Açıq vərəqlər
+
+
+;History
+Tarixçə
 
 
 ;At home
@@ -146,7 +176,7 @@ Evdə
 
 
 ;Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
-Move from your desk to the couch without skipping a beat. Access your open tabs on your smartphone, or keeping browsing your bookmarks right on your tablet.
+İş stolunuzdan divana heç bir detalı qaçırtmadan keçin. Açıq vərəqlərinizi telefonunuzda görün, və ya əlfəcinləriniz üzərindən səyahəti tabletinizdə davam edin.
 
 
 ;At work
@@ -154,7 +184,7 @@ Move from your desk to the couch without skipping a beat. Access your open tabs 
 
 
 ;Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
-Stay connected to all of your important information. Sync the passwords and bookmarks that you might need to access at any time. Just like Firefox, it’s safe as can be.
+Bütün vacib məlumatlarınıza bağlı qalın. Hər an sizə lazım ola biləcək şifrə və əlfəcinlərinizi sinxronlaşdırın. Firefox kimi bu da ola biləcəyi qədər təhlükəsizdir.
 
 
 ;On the go
@@ -162,11 +192,23 @@ Yolda
 
 
 ;Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
-Keep up with your favorite sites, or finish that story you started at home — wherever you go. With Sync, it’s never been easier.
+Sevimli saytlarınızla bağlı qalın və ya evdə başladığınız hekayəni bitirin — hara gedirsizsə gedin. Sync ilə heç belə asan olmamışdı.
+
+
+;Add Firefox to your smartphone or tablet
+Firefox-u ağıllı telefonunuza və tabletinizə əlavə edin
+
+
+;To get the full Sync experience, get Firefox for iOS or Android and connect all your devices — everywhere and anywhere you use Firefox.
+Sync-i tam istifadə etmək üçün Firefox-u iOS və ya Android cihazlarınızda əldə edin və bütün cihazlarınızı bağlayın — Firefox işlətdiyiniz hər yerdə.
+
+
+;Add Firefox
+Firefox Əlavə edin
 
 
 ;Have an <b>Android smartphone</b> or <b>tablet</b>?
-Have an <b>Android smartphone</b> or <b>tablet</b>?
+<b>Android telefon</b> və ya <b>tablet</b>iniz var?
 
 
 ;DOWNLOAD FIREFOX FOR ANDROID
@@ -174,71 +216,6 @@ ANDROID ÜÇÜN FIREFOX ENDİR
 
 
 ;To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-To get the full Sync experience, take your Web with you everywhere you use Firefox. Connect your smartphone, tablet, computer and laptop.
-
-
-# Used in old page, do not remove , do not remove
-;Instantly make Firefox your own wherever you use it. Seamlessly sync your bookmarks, history, passwords and more and access them from any device.
-Firefox-u harada işlədirsiz-işlədin, özünüzkü edin. Əziyyətsiz əlfəcin, tarixcə, şifrələr və başqa məlumatlarınızı sinxronlaşdırın və onları özünüz üçün bütün cihazlardan əl-çatan edin.
-
-
-# Used in old page, do not remove
-;Get started with Sync. It’s fast, safe and easy:
-Sinxronlaşdırmaya başlayın. Bu sürətli, təhlükəsiz və rahatdır:
-
-
-# Used in old page, do not remove
-;Open the <a class="menu" href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “<strong>Sign in to Sync.</strong>”
-Üst sağda olan <a class="menu" href="%(url)s#w_a-handy-new-menu">menyu</a>nu açın və “<strong>Sync daxil ol</strong>” seçin.
-
-
-# Used in old page, do not remove
-;Open the <a href="%(url)s#w_a-handy-new-menu">menu</a> in the top right of Firefox and select “Sign in to Sync.”
-Üst sağda olan <a href="%(url)s#w_a-handy-new-menu">menyu</a>nu açın və “Sync daxil ol” seçin.
-
-
-# Used in old page, do not remove
-;Click “Get started” in the tab that opens.
-Açılan tabda “Başla” düyməsini klikləyin.
-
-
-# Used in old page, do not remove
-;Enter an email address and password to “Create a Firefox Account.”
-“Firefox Hesabı Aç”-maq üçün e-poçt və şifrə daxil edin.
-
-
-# Used in old page, do not remove
-;Click “Next” to get a verification sent to your email.
-“Növbəti” düyməsinə basın və e-poçt adresinizə göndərilmiş təstiqi alın.
-
-
-# Used in old page, do not remove
-;Check your email and click the verification link.
-E-poçtunuzu yoxlayın və təsdiqləmə linkinə klikləyin.
-
-
-# Used in old page, do not remove
-;You’re all set! Firefox will automatically sync in the background from now on.
-Hər şey tamamdır! Firefox bundan sonra arxada sinxronlaşacaq.
-
-
-# Used in old page, do not remove
-;Have an Android phone or tablet?
-Android telefon və ya tabletiniz var?
-
-
-# Used in old page, do not remove
-;<a href="%(url)s">Download Firefox for Android</a> to sync between your desktop and mobile devices.
-<a href="%(url)s">Android üçün Firefox Endirin</a> və kompüterlərinizlə mobil cihazlarınız arasında sinxronlaşın.
-
-
-# Used in old page, do not remove
-;Download Firefox for Android to sync between your desktop and mobile devices.
-Android üçün Firefox Endirin və kompüterlərinizlə mobil cihazlarınız arasında sinxronlaşın.
-
-
-# Used in old page, do not remove
-;Get it free from Google Play
-Google Play-dən pulsuz əldə edin
+Tam Sinxronlaşdırma bararıqları üçün web-i Firefox işlətdiyiniz hər yerə özünüzlə götürün. Telefon, tablet, kompüter və laptopunuzu bağlayın.
 
 
