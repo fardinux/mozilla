@@ -227,7 +227,7 @@ Identifier for the particular distribution of the application in use. It is take
 
 
 ;Version of the distribution, taken from the <var>distribution.version</var> preference
-Version of the distribution, taken from the <var>distribution.version</var> preference
+Distributivin buraxılış nömrəsi, <var>distribution.version</var> nizamlamalarından əldə olunub.
 
 
 ;The version number of any Mozilla hotfix applied to the application
@@ -243,7 +243,7 @@ Tətbiqin konfiqurasiya olunmuş adı (məsələn: Firefox/Aurora/Nightly)
 
 
 ;The channel this installation checks for application updates (nightly/aurora/beta/release)
-The channel this installation checks for application updates (nightly/aurora/beta/release)
+Bu quraşdırma kanalı (nightly/aurora/beta/release) tətbiqetmə yeniləmələrini axtarır.
 
 
 ;The name of the company/provider who built this version
@@ -335,7 +335,7 @@ Whether this add-on is an extension or a plug-in
 
 
 ;The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
-The most recent date this add-on was updated (previous information about an uninstalled add-on is not kept).
+Bu əlavənin ən son yeniləndiyi tarix (silinmiş bir əlavə haqqında əvvəlki məlumatlar saxlanılmır).
 
 
 ;<var>True</var> if the user manually disabled the add-on
@@ -391,15 +391,14 @@ Total number of crashes that were recorded but not yet submitted
 
 
 ;Total number of crashes that have been submitted
-Total number of crashes that have been submitted
-
+Qeydə alınan qəzaların ümumi sayı
 
 ;Time in seconds the app has not been idle
-Time in seconds the app has not been idle
+Tətbiqin fasiləsiz işlədiyi müddət, saniyələrlə
 
 
 ;Time in seconds since the app was last started
-Time in seconds since the app was last started
+Tətbiqin son başladıldığı andan etibarən keçən müddət, saniyələrlə
 
 
 ;Total number of bookmarks
@@ -444,7 +443,7 @@ Məxfilik Siyasəti
 
 # The following strings are used only in the Mobile version of about:healthreport (Firefox for Android)
 ;Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
-Firefox Health Report lets you optimize your Firefox and helps us build a more excellent browser. Reports will be pretty basic at first, but will continue to evolve and grow.
+Firefox Sağlamlıq Hesabatı sizə Firefox-u optimallaşdırmağa və bizə daha mükəmməl bir səyyah hazırlamağa imkan verir. Hesabatlar əvvəlcə çox sadə olacaq, lakin daha sonra getdikcə inkişaf edəcək və böyüyəyəcək.
 
 
 ;Learn More&hellip;
@@ -480,7 +479,7 @@ Başlanma sürəti kimi açar sürət ölçüləri.
 
 
 ;Browsing duration, install time, number of bookmarks and pages.
-Browsing duration, install time, number of bookmarks and pages.
+Səyahət müddəti, quraşdırılma vaxtı, əlfəcinlərin və səhifələrin sayı.
 
 
 ;Home
@@ -496,7 +495,7 @@ Android tərəfindən bildirilən prosessor nüvələrinin sayı.
 
 
 ;Memory in MB:
-Memory in MB:
+MB olaraq yaddaş:
 
 
 ;The amount of memory reported by Android. Typically excludes graphics memory.
